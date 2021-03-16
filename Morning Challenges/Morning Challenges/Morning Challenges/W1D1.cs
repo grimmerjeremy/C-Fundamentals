@@ -4,7 +4,7 @@ using System;
 namespace Morning_Challenges
 {
     [TestClass]
-    public class UnitTest1
+    public class W1D1
     {
         [TestMethod]
         public void W1D3()

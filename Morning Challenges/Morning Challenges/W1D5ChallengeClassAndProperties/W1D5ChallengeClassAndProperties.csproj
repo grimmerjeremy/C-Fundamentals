@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{35F85E7D-126C-4420-9E5C-8C1CBE377033}</ProjectGuid>
+    <ProjectGuid>{8449BBA4-DA81-4F81-BA8C-11DBBF905D68}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Morning_Challenges</RootNamespace>
-    <AssemblyName>Morning Challenges</AssemblyName>
+    <RootNamespace>W1D5ChallengeClassAndProperties</RootNamespace>
+    <AssemblyName>W1D5ChallengeClassAndProperties</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -49,8 +49,9 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="W1D1.cs" />
+    <Compile Include="W1D5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="W1D5WithClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
